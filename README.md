@@ -1,4 +1,4 @@
-# meeting-agenda-templates
+# Free Meeting Agenda Templates
 The best free meeting agenda templates on the web. Available as Word Docs, Google Docs, and for use in [Hugo](https://www.hugo.team/) (meeting software)
 
 ## Best practices for meeting agendas
